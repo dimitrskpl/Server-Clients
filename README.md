@@ -1,4 +1,4 @@
-# Client-Server-Content-Delivery
+# Server-Clients
 An ftp‑like server supporting multiple clients communicating through sockets
 
 The purpose is to copy all the contents of one directory recursively from a server, to the local file system of the client.
